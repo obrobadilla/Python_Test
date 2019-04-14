@@ -1,2 +1,0 @@
-#License File for testing / Learning GIT
-
